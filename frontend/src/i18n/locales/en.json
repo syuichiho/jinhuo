@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "home": "Home",
+    "works": "Works",
+    "articles": "News",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "tagline": "Innovation Studio",
+    "heroTitle1": "Jinhuo",
+    "heroTitle2": "Tech",
+    "heroSubtitle": "Igniting Creativity · Illuminating the Future",
+    "heroDesc": "AI Drama · AI Commercial Videos · Image Generation · Web Development",
+    "exploreWorks": "Explore Works",
+    "startCollaboration": "Start Collaboration",
+    "servicesTitle": "Core Services",
+    "services": {
+      "aiDrama": "AI Drama",
+      "aiDramaDesc": "Intelligent anime story generation, creating immersive visual experiences",
+      "aiVideo": "AI Commercial Videos",
+      "aiVideoDesc": "One-click professional commercial video content generation",
+      "aiImage": "Image Generation",
+      "aiImageDesc": "AI-powered creative image generation and design services",
+      "website": "Web Development",
+      "websiteDesc": "Custom website development and digital solutions"
+    },
+    "whyUs": "Why Choose Us",
+    "reasons": {
+      "tech": "Cutting-Edge Technology",
+      "techDesc": "Adopting the latest AI technology, maintaining technical leadership",
+      "creative": "Unlimited Creativity",
+      "creativeDesc": "Breaking traditional boundaries, unleashing infinite creative possibilities",
+      "fast": "Rapid Delivery",
+      "fastDesc": "AI-powered workflows, significantly reducing project timelines"
+    },
+    "scroll": "Scroll"
+  },
+  "works": {
+    "title": "Portfolio",
+    "subtitle": "Explore our creative works and technical achievements",
+    "all": "All Works",
+    "aiDrama": "AI Drama",
+    "aiVideo": "AI Videos",
+    "aiImage": "Image Generation",
+    "website": "Web Development",
+    "loading": "Loading...",
+    "noWorks": "No works yet",
+    "viewAll": "Click to view all",
+    "types": {
+      "ai-drama": "AI Drama",
+      "ai-video": "AI Video",
+      "ai-image": "AI Image",
+      "website": "Website"
+    }
+  },
+  "articles": {
+    "title": "News & Announcements",
+    "loading": "Loading...",
+    "noArticles": "No articles yet",
+    "news": "News",
+    "announcement": "Announcement",
+    "viewDetail": "Click for details →",
+    "author": "Author"
+  },
+  "about": {
+    "title": "About Us",
+    "companyIntro": "Company Introduction",
+    "companyDesc": "Jinhuo Tech is a technology company focused on AI creative content production. Using cutting-edge artificial intelligence technology, we provide AI drama production, AI commercial videos, creative image generation, and premium website design services—transforming imagination into reality with technology.",
+    "history": "Our Journey",
+    "historyItems": {
+      "202603": "Jinhuo Tech founded, starting our AI creative journey"
+    },
+    "businessScope": "Core Services",
+    "services": {
+      "aiDrama": "AI Drama",
+      "aiDramaDesc": "Intelligent anime story generation, creating immersive visual experiences",
+      "aiVideo": "AI Commercial Videos",
+      "aiVideoDesc": "One-click professional commercial video generation",
+      "aiImage": "Image Generation",
+      "aiImageDesc": "AI-powered creative image generation and design",
+      "website": "Website Design",
+      "websiteDesc": "Premium custom website design and development"
+    },
+    "contactUs": "Contact Us",
+    "address": "Address: Shika-machi, Ishikawa Prefecture, Japan",
+    "phone": "Phone: +81-xxx-xxxx",
+    "email": "Email: contact@jinhuo.tech"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "namePlaceholder": "Please enter your name",
+    "contactInfo": "Contact",
+    "contactPlaceholder": "Please enter your contact (phone/email/WeChat)",
+    "content": "Message",
+    "contentPlaceholder": "Please enter your message",
+    "required": "*",
+    "submitting": "Submitting...",
+    "submit": "Submit",
+    "success": "Submitted successfully! We will contact you soon.",
+    "failed": "Submission failed: ",
+    "retry": "Submission failed, please try again later",
+    "fillRequired": "Please fill in name and message",
+    "orEmail": "Or contact us directly: contact@jinhuo.tech"
+  },
+  "footer": {
+    "works": "Portfolio",
+    "articles": "News",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "copyright": "© 2026 Jinhuo Tech · All Rights Reserved"
+  },
+  "admin": {
+    "login": "Login",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "worksManage": "Works",
+    "articlesManage": "Articles",
+    "inquiriesManage": "Inquiries",
+    "adminsManage": "Admins",
+    "username": "Username",
+    "password": "Password",
+    "loginBtn": "Login",
+    "loggingIn": "Logging in...",
+    "loginFailed": "Invalid username or password",
+    "welcome": "Welcome back",
+    "stats": {
+      "works": "Total Works",
+      "articles": "Total Articles",
+      "inquiries": "Total Inquiries",
+      "admins": "Total Admins"
+    },
+    "actions": {
+      "add": "Add",
+      "edit": "Edit",
+      "delete": "Delete",
+      "save": "Save",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "search": "Search"
+    },
+    "works": {
+      "title": "Title",
+      "description": "Description",
+      "type": "Type",
+      "thumbnail": "Thumbnail",
+      "files": "Files",
+      "sort": "Sort",
+      "status": "Status",
+      "addTitle": "Add Work",
+      "editTitle": "Edit Work"
+    },
+    "articles": {
+      "title": "Title",
+      "content": "Content",
+      "type": "Type",
+      "author": "Author",
+      "cover": "Cover",
+      "publish": "Publish",
+      "draft": "Draft",
+      "addTitle": "Add Article",
+      "editTitle": "Edit Article"
+    },
+    "inquiries": {
+      "name": "Name",
+      "contact": "Contact",
+      "content": "Content",
+      "time": "Time",
+      "processed": "Processed",
+      "pending": "Pending"
+    },
+    "admins": {
+      "username": "Username",
+      "password": "Password",
+      "role": "Role",
+      "addTitle": "Add Admin",
+      "editTitle": "Edit Admin"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "noData": "No data",
+    "confirmDelete": "Confirm delete?",
+    "deleteSuccess": "Deleted successfully",
+    "saveSuccess": "Saved successfully",
+    "operationSuccess": "Operation successful",
+    "operationFailed": "Operation failed"
+  }
+}

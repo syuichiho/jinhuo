@@ -1,0 +1,17 @@
+server:
+  address: ":8080"
+
+database:
+  default:
+    type: "pgsql"
+    host: "localhost"
+    port: "5432"
+    user: "zhou"
+    pass: "Minluck01"
+    name: "test"
+    timezone: "Asia/Tokyo"
+    debug: true
+
+logger:
+  level: "all"
+  stdout: true

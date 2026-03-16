@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "home": "首页",
+    "works": "作品",
+    "articles": "资讯",
+    "about": "关于",
+    "contact": "联系"
+  },
+  "home": {
+    "tagline": "Innovation Studio",
+    "heroTitle1": "烬火",
+    "heroTitle2": "科技",
+    "heroSubtitle": "燃烧创造力 · 点亮未来",
+    "heroDesc": "AI漫剧 · AI广告视频 · 图片生成 · 网站制作",
+    "exploreWorks": "探索作品",
+    "startCollaboration": "开始合作",
+    "servicesTitle": "核心服务",
+    "services": {
+      "aiDrama": "AI漫剧",
+      "aiDramaDesc": "智能生成动漫剧情，打造沉浸式视觉体验",
+      "aiVideo": "AI广告视频",
+      "aiVideoDesc": "一键生成专业级商业广告视频内容",
+      "aiImage": "图片生成",
+      "aiImageDesc": "AI驱动的创意图像生成与设计服务",
+      "website": "网站制作",
+      "websiteDesc": "定制化网站开发与数字化解决方案"
+    },
+    "whyUs": "为什么选择我们",
+    "reasons": {
+      "tech": "前沿技术",
+      "techDesc": "采用最新AI技术，保持技术领先优势",
+      "creative": "创意无限",
+      "creativeDesc": "打破传统边界，释放无限创意可能",
+      "fast": "极速交付",
+      "fastDesc": "AI赋能流程，大幅缩短项目周期"
+    },
+    "scroll": "Scroll"
+  },
+  "works": {
+    "title": "作品展示",
+    "subtitle": "探索我们的创意作品与技术成果",
+    "all": "全部作品",
+    "aiDrama": "AI漫剧",
+    "aiVideo": "AI广告视频",
+    "aiImage": "图片生成",
+    "website": "网站制作",
+    "loading": "加载中...",
+    "noWorks": "暂无作品",
+    "viewAll": "点击查看全部",
+    "types": {
+      "ai-drama": "AI漫剧",
+      "ai-video": "AI广告视频",
+      "ai-image": "图片生成",
+      "website": "网站制作"
+    }
+  },
+  "articles": {
+    "title": "资讯公告",
+    "loading": "加载中...",
+    "noArticles": "暂无资讯",
+    "news": "新闻",
+    "announcement": "公告",
+    "viewDetail": "点击查看详情 →",
+    "author": "作者"
+  },
+  "about": {
+    "title": "关于我们",
+    "companyIntro": "公司介绍",
+    "companyDesc": "烬火科技是一家专注于 AI 创意内容生产的科技公司。我们运用前沿的人工智能技术，为客户提供 AI 漫剧制作、AI 广告视频、创意图片生成、高端网站设计等服务，用科技点亮创意，让想象力成为现实。",
+    "history": "发展历程",
+    "historyItems": {
+      "202603": "烬火科技成立，开启 AI 创意之旅"
+    },
+    "businessScope": "核心业务",
+    "services": {
+      "aiDrama": "AI 漫剧",
+      "aiDramaDesc": "智能生成动漫剧情与画面，打造沉浸式视觉体验",
+      "aiVideo": "AI 广告视频",
+      "aiVideoDesc": "一键生成专业级商业广告视频",
+      "aiImage": "图片生成",
+      "aiImageDesc": "AI 驱动的创意图像生成与设计",
+      "website": "网站设计",
+      "websiteDesc": "高端定制化网站设计与开发"
+    },
+    "contactUs": "联系我们",
+    "address": "地址：日本石川县志贺町",
+    "phone": "电话：+81-xxx-xxxx",
+    "email": "邮箱：contact@jinhuo.tech"
+  },
+  "contact": {
+    "title": "联系我们",
+    "name": "姓名",
+    "namePlaceholder": "请输入您的姓名",
+    "contactInfo": "联系方式",
+    "contactPlaceholder": "请输入您的联系方式（电话/邮箱/微信）",
+    "content": "咨询内容",
+    "contentPlaceholder": "请输入您的咨询内容",
+    "required": "*",
+    "submitting": "提交中...",
+    "submit": "提交",
+    "success": "提交成功！我们会尽快与您联系。",
+    "failed": "提交失败：",
+    "retry": "提交失败，请稍后重试",
+    "fillRequired": "请填写姓名和咨询内容",
+    "orEmail": "或直接联系我们：contact@jinhuo.tech"
+  },
+  "footer": {
+    "works": "作品展示",
+    "articles": "资讯公告",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "copyright": "© 2026 烬火科技 · All Rights Reserved"
+  },
+  "admin": {
+    "login": "登录",
+    "logout": "退出",
+    "dashboard": "控制台",
+    "worksManage": "作品管理",
+    "articlesManage": "文章管理",
+    "inquiriesManage": "留言管理",
+    "adminsManage": "管理员管理",
+    "username": "用户名",
+    "password": "密码",
+    "loginBtn": "登录",
+    "loggingIn": "登录中...",
+    "loginFailed": "用户名或密码错误",
+    "welcome": "欢迎回来",
+    "stats": {
+      "works": "作品总数",
+      "articles": "文章总数",
+      "inquiries": "留言总数",
+      "admins": "管理员数"
+    },
+    "actions": {
+      "add": "新增",
+      "edit": "编辑",
+      "delete": "删除",
+      "save": "保存",
+      "cancel": "取消",
+      "confirm": "确认",
+      "search": "搜索"
+    },
+    "works": {
+      "title": "标题",
+      "description": "描述",
+      "type": "类型",
+      "thumbnail": "缩略图",
+      "files": "文件",
+      "sort": "排序",
+      "status": "状态",
+      "addTitle": "新增作品",
+      "editTitle": "编辑作品"
+    },
+    "articles": {
+      "title": "标题",
+      "content": "内容",
+      "type": "类型",
+      "author": "作者",
+      "cover": "封面",
+      "publish": "发布",
+      "draft": "草稿",
+      "addTitle": "新增文章",
+      "editTitle": "编辑文章"
+    },
+    "inquiries": {
+      "name": "姓名",
+      "contact": "联系方式",
+      "content": "内容",
+      "time": "时间",
+      "processed": "已处理",
+      "pending": "待处理"
+    },
+    "admins": {
+      "username": "用户名",
+      "password": "密码",
+      "role": "角色",
+      "addTitle": "新增管理员",
+      "editTitle": "编辑管理员"
+    }
+  },
+  "common": {
+    "loading": "加载中...",
+    "noData": "暂无数据",
+    "confirmDelete": "确认删除？",
+    "deleteSuccess": "删除成功",
+    "saveSuccess": "保存成功",
+    "operationSuccess": "操作成功",
+    "operationFailed": "操作失败"
+  }
+}

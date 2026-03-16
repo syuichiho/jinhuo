@@ -1,0 +1,190 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "works": "作品",
+    "articles": "ニュース",
+    "about": "会社概要",
+    "contact": "お問い合わせ"
+  },
+  "home": {
+    "tagline": "Innovation Studio",
+    "heroTitle1": "燼火",
+    "heroTitle2": "科技",
+    "heroSubtitle": "創造力を燃やし · 未来を照らす",
+    "heroDesc": "AIアニメ · AIコマーシャル動画 · 画像生成 · ウェブ開発",
+    "exploreWorks": "作品を見る",
+    "startCollaboration": "お問い合わせ",
+    "servicesTitle": "主要サービス",
+    "services": {
+      "aiDrama": "AIアニメ",
+      "aiDramaDesc": "スマートなアニメストーリー生成、没入型のビジュアル体験を実現",
+      "aiVideo": "AIコマーシャル動画",
+      "aiVideoDesc": "ワンクリックでプロ級のコマーシャル動画を生成",
+      "aiImage": "画像生成",
+      "aiImageDesc": "AI駆動のクリエイティブ画像生成・デザインサービス",
+      "website": "ウェブ開発",
+      "websiteDesc": "カスタムウェブ開発・デジタルソリューション"
+    },
+    "whyUs": "選ばれる理由",
+    "reasons": {
+      "tech": "最先端技術",
+      "techDesc": "最新AI技術を採用し、技術的優位性を維持",
+      "creative": "無限の創造性",
+      "creativeDesc": "従来の境界を打破し、無限の可能性を解放",
+      "fast": "迅速な納品",
+      "fastDesc": "AIを活用したワークフローで、プロジェクト期間を大幅短縮"
+    },
+    "scroll": "Scroll"
+  },
+  "works": {
+    "title": "ポートフォリオ",
+    "subtitle": "クリエイティブ作品と技術成果をご覧ください",
+    "all": "すべての作品",
+    "aiDrama": "AIアニメ",
+    "aiVideo": "AI動画",
+    "aiImage": "画像生成",
+    "website": "ウェブ開発",
+    "loading": "読み込み中...",
+    "noWorks": "作品がありません",
+    "viewAll": "クリックしてすべて表示",
+    "types": {
+      "ai-drama": "AIアニメ",
+      "ai-video": "AI動画",
+      "ai-image": "AI画像",
+      "website": "ウェブサイト"
+    }
+  },
+  "articles": {
+    "title": "ニュース＆お知らせ",
+    "loading": "読み込み中...",
+    "noArticles": "記事がありません",
+    "news": "ニュース",
+    "announcement": "お知らせ",
+    "viewDetail": "詳細を見る →",
+    "author": "著者"
+  },
+  "about": {
+    "title": "会社概要",
+    "companyIntro": "会社紹介",
+    "companyDesc": "燼火科技は AI クリエイティブコンテンツ制作に特化したテクノロジー企業です。最先端の AI 技術を活用し、AI アニメ制作、AI コマーシャル動画、クリエイティブ画像生成、高級ウェブサイトデザインサービスを提供しています。テクノロジーで想像力を現実に。",
+    "history": "発展の歩み",
+    "historyItems": {
+      "202603": "燼火科技設立、AI クリエイティブの旅をスタート"
+    },
+    "businessScope": "主要事業",
+    "services": {
+      "aiDrama": "AI アニメ",
+      "aiDramaDesc": "スマートなアニメストーリー生成、没入型のビジュアル体験を実現",
+      "aiVideo": "AI コマーシャル動画",
+      "aiVideoDesc": "ワンクリックでプロ級のコマーシャル動画を生成",
+      "aiImage": "画像生成",
+      "aiImageDesc": "AI 駆動のクリエイティブ画像生成・デザイン",
+      "website": "ウェブサイトデザイン",
+      "websiteDesc": "高級カスタムウェブサイトデザイン・開発"
+    },
+    "contactUs": "お問い合わせ",
+    "address": "住所：石川県志賀町",
+    "phone": "電話：+81-xxx-xxxx",
+    "email": "メール：contact@jinhuo.tech"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "name": "お名前",
+    "namePlaceholder": "お名前を入力してください",
+    "contactInfo": "連絡先",
+    "contactPlaceholder": "連絡先を入力してください（電話/メール/WeChat）",
+    "content": "メッセージ",
+    "contentPlaceholder": "メッセージを入力してください",
+    "required": "（必須）",
+    "submitting": "送信中...",
+    "submit": "送信",
+    "success": "送信完了！近日中にご連絡いたします。",
+    "failed": "送信失敗：",
+    "retry": "送信に失敗しました、後でもう一度お試しください",
+    "fillRequired": "お名前とメッセージを入力してください",
+    "orEmail": "または直接ご連絡ください：contact@jinhuo.tech"
+  },
+  "footer": {
+    "works": "ポートフォリオ",
+    "articles": "ニュース",
+    "about": "会社概要",
+    "contact": "お問い合わせ",
+    "copyright": "© 2026 燼火科技 · All Rights Reserved"
+  },
+  "admin": {
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "dashboard": "ダッシュボード",
+    "worksManage": "作品管理",
+    "articlesManage": "記事管理",
+    "inquiriesManage": "問い合わせ管理",
+    "adminsManage": "管理者管理",
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "loginBtn": "ログイン",
+    "loggingIn": "ログイン中...",
+    "loginFailed": "ユーザー名またはパスワードが正しくありません",
+    "welcome": "おかえりなさい",
+    "stats": {
+      "works": "作品総数",
+      "articles": "記事総数",
+      "inquiries": "問い合わせ総数",
+      "admins": "管理者数"
+    },
+    "actions": {
+      "add": "追加",
+      "edit": "編集",
+      "delete": "削除",
+      "save": "保存",
+      "cancel": "キャンセル",
+      "confirm": "確認",
+      "search": "検索"
+    },
+    "works": {
+      "title": "タイトル",
+      "description": "説明",
+      "type": "タイプ",
+      "thumbnail": "サムネイル",
+      "files": "ファイル",
+      "sort": "並び順",
+      "status": "ステータス",
+      "addTitle": "作品を追加",
+      "editTitle": "作品を編集"
+    },
+    "articles": {
+      "title": "タイトル",
+      "content": "内容",
+      "type": "タイプ",
+      "author": "著者",
+      "cover": "カバー画像",
+      "publish": "公開",
+      "draft": "下書き",
+      "addTitle": "記事を追加",
+      "editTitle": "記事を編集"
+    },
+    "inquiries": {
+      "name": "名前",
+      "contact": "連絡先",
+      "content": "内容",
+      "time": "時間",
+      "processed": "処理済み",
+      "pending": "未処理"
+    },
+    "admins": {
+      "username": "ユーザー名",
+      "password": "パスワード",
+      "role": "役割",
+      "addTitle": "管理者を追加",
+      "editTitle": "管理者を編集"
+    }
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "noData": "データがありません",
+    "confirmDelete": "削除しますか？",
+    "deleteSuccess": "削除しました",
+    "saveSuccess": "保存しました",
+    "operationSuccess": "操作が成功しました",
+    "operationFailed": "操作に失敗しました"
+  }
+}
